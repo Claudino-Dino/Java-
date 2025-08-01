@@ -1,1 +1,1 @@
-# Java-
+Exercícios básicos feitos em Java
